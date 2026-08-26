@@ -1,12 +1,12 @@
 [
   {
-    "Username": "Frost",
+    "Username": "CrackerAA",
     "SystemId": "EBADBA9646145239",
-    "Key": "BDA1KzQgY3JbWlNVUFBxWA4nEBYfHx1zVlZURF5QWQAGAQkW",
-    "Expiry": 1787769517012,
-    "Time": "2026-08-26T18:33:37.012Z",
+    "Key": "BDA1KzQgY3JbWlNVUFBxWA4iEBgPAAQwIC8fOgYPBV9YRUE=",
+    "Expiry": null,
+    "Time": "2026-08-26T18:38:07.137Z",
     "IsBanned": false,
-    "BanExpiry": "4444-11-11T06:44:00.000Z",
-    "BanReason": "Иди нахуй"
+    "BanExpiry": null,
+    "BanReason": null
   }
 ]
