@@ -5,8 +5,8 @@
     "Key": "BDA1KzQgY3JbWlNVUFBxWA4nEBYfHx1zVlZURF5QWQAGAQkW",
     "Expiry": 1787769517012,
     "Time": "2026-08-26T18:33:37.012Z",
-    "IsBanned": true,
-    "BanExpiry": "4444-11-11T09:44:00.000Z",
+    "IsBanned": false,
+    "BanExpiry": "4444-11-11T06:44:00.000Z",
     "BanReason": "Иди нахуй"
   }
 ]
