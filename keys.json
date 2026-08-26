@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "Username": "Frost",
+    "SystemId": "EBADBA9646145239",
+    "Key": "BDA1KzQgY3JbWlNVUFBxWA4nEBYfHx1zVlZURF5QWQAGAQkW",
+    "Expiry": 1787769517012,
+    "Time": "2026-08-26T18:33:37.012Z",
+    "IsBanned": false,
+    "BanExpiry": null,
+    "BanReason": null
+  }
+]
