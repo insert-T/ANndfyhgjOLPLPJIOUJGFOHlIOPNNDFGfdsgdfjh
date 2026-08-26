@@ -1,12 +1,22 @@
 [
   {
+    "Username": "CrackerAA34",
+    "SystemId": "EBADBA9646145239",
+    "Key": "BDA1KzQgY3JbWlNVUFBxWA4iEBgPAAQwIC9QRxQgAldYX1FQXQ==",
+    "Expiry": null,
+    "Time": "2026-08-26T18:39:15.901Z",
+    "IsBanned": false,
+    "BanExpiry": null,
+    "BanReason": null
+  },
+  {
     "Username": "CrackerAA",
     "SystemId": "EBADBA9646145239",
     "Key": "BDA1KzQgY3JbWlNVUFBxWA4iEBgPAAQwIC8fOgYPBV9YRUE=",
-    "Expiry": 639260447224239363,
-    "Time": "2026-08-26T18:38:42.4240390Z",
-    "IsBanned": true,
-    "BanExpiry": "2026-09-26T18:38:42.4245108Z",
-    "BanReason": "Обнаружена нелегальная копия (кряк)"
+    "Expiry": null,
+    "Time": "2026-08-26T18:39:02.057Z",
+    "IsBanned": false,
+    "BanExpiry": null,
+    "BanReason": null
   }
 ]
