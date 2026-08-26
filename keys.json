@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "Username": "Insighter",
+    "SystemId": "DDFE34523DF32434",
+    "Key": "BTYyKkVVb3ZcKCRSV1ZxVQ4oDAoFDAk2BBwfOgYPBV9YRUE=",
+    "Expiry": null,
+    "Time": "2026-08-26T18:43:23.099Z",
+    "IsBanned": false,
+    "BanExpiry": null,
+    "BanReason": null
+  }
+]
