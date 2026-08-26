@@ -1,11 +1,11 @@
 [
   {
-    "Username": "admin",
+    "Username": "NN",
     "SystemId": "EBADBA9646145239",
     "Key": "BDA1KzQgY3JbWlNVUFBxWA4ABhQFBR0LDwgKHQEdFQ==",
     "Expiry": 639260451163654040,
     "Time": "2026-08-26T18:45:16.3654596Z",
-    "IsBanned": true,
+    "IsBanned": false,
     "BanExpiry": "2026-09-26T18:45:16.365966Z",
     "BanReason": "Обнаружена нелегальная копия (кряк)"
   }
