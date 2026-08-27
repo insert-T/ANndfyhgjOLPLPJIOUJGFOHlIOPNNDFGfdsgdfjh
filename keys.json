@@ -8,15 +8,5 @@
     "IsBanned": false,
     "BanExpiry": null,
     "BanReason": null
-  },
-  {
-    "Username": "drakon",
-    "SystemId": "EBADBA9646145239",
-    "Key": "BDA1KzQgY3JbWlNVUFBxWA4ABhQFBR0LDwgKHQEdFQ==",
-    "Expiry": 639260451163654000,
-    "Time": "2026-08-26T18:45:16.3654596Z",
-    "IsBanned": false,
-    "BanExpiry": "2026-05-26T15:45:00.000Z",
-    "BanReason": "null"
   }
 ]
